@@ -1,6 +1,6 @@
 # TP1ExercisesFormatter
 ```yaml
-- Um programa simples que roda em jdk, para automatizar o chato processo de formatar
+- Um programa simples que roda em java, para automatizar o chato processo de formatar
    os arquivos antes de enviar para nossa professora chaotic neutral que pede arquivos
    .txt dos alunos.
 - Para utilizar ele apenas execute o 'TP1Formatter.jar' na pasta contendo apenas as
